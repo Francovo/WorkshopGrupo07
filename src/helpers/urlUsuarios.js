@@ -1,0 +1,1 @@
+export const urlUsuarios = "https://backasimulacrogrupo7.herokuapp.com/Usuarios/"
